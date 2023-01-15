@@ -1,3 +1,4 @@
 results
 data
 pretrained
+__pycache__/*
