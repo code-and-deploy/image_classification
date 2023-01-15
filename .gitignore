@@ -2,3 +2,4 @@ results
 data
 pretrained
 __pycache__/*
+.vscode
